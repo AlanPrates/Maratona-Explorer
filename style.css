@@ -66,3 +66,6 @@ button:hover {
   opacity: 0.9;
   margin-bottom: 10px;
 }
+#btn-lg{
+  color: white;
+}
